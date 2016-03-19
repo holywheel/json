@@ -1,0 +1,26 @@
+{
+  "name": "jsonparser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "debugger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holywheel/json.git"
+  },
+  "keywords": [
+    "json",
+    "jsonparser"
+  ],
+  "author": "skyitachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/holywheel/json/issues"
+  },
+  "homepage": "https://github.com/holywheel/json#readme",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}
